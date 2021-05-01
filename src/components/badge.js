@@ -5,7 +5,7 @@ import '../styles/Badge.css';
 
 class Badge extends React.Component {
     render() {
-      console.log( this.props)
+      console.log('Soy los props', this.props)
         // this.props
         // const nombre = 'Julian';
         // const apellido = 'Henao H.';
